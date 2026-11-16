@@ -135,11 +135,6 @@ git clone https://github.com/puskarev/verdict && cd verdict && mkdir -p ~/.claud
 - `git` и `python3` для скрипта проверки карты; `jq` необязателен.
 - Скилы написаны на русском, отчёты тоже будут на русском.
 
-## Благодарности
-
-- Чек-лист скорости основан на [mrconcol/vibecode-speed-prompts](https://github.com/mrconcol/vibecode-speed-prompts).
-- Перепроверка скептиком, Definition of Done, структура CLAUDE.md, проверка устаревания документации, агенты-ревьюеры и проверка перед выкладкой адаптированы из [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (MIT).
-
 ## Лицензия
 
 MIT, см. [LICENSE](LICENSE).
