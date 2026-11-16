@@ -1,0 +1,13 @@
+{
+  "name": "verdict",
+  "version": "1.0.0",
+  "description": "Карта проекта для ИИ-агентов, честный аудит с вердиктом «нужно ли это вашему продукту», исправления с проверкой и проверка перед выкладкой.",
+  "author": {
+    "name": "puskarev",
+    "url": "https://github.com/puskarev"
+  },
+  "homepage": "https://github.com/puskarev/verdict",
+  "repository": "https://github.com/puskarev/verdict",
+  "license": "MIT",
+  "keywords": ["audit", "project-map", "claude-md", "performance", "security", "code-review", "deploy", "vibecoding"]
+}

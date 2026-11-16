@@ -1,0 +1,15 @@
+{
+  "name": "verdict",
+  "description": "Verdict: карта проекта для агентов, аудит с вердиктами, проверка перед выкладкой.",
+  "owner": {
+    "name": "puskarev",
+    "url": "https://github.com/puskarev"
+  },
+  "plugins": [
+    {
+      "name": "verdict",
+      "source": "./",
+      "description": "Карта проекта для ИИ-агентов, аудит с вердиктами, исправления с проверкой, проверка перед выкладкой."
+    }
+  ]
+}
